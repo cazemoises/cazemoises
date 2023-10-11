@@ -53,7 +53,7 @@ Throughout my academic journey, I've had the privilege to work on several impact
 
 - **Instituto Fael**
   - **Description**: Founder and active member of Instituto Fael, a recently created social project dedicated to bringing sports, culture and technology training to disadvantaged regions.
-  - **Website (In development)**: [Instituto Fael](https://www.institutofael.com)
+  - **Website (In development)**: [Instituto Fael](https://institutofael.com)
   - **Social**:
     - [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=0E76A8)](https://twitter.com/institutofael)
     - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/company/institutofael/?viewAsMember=true)
