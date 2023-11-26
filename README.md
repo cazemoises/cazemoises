@@ -27,11 +27,6 @@ I specialize in full-stack web development, and my passion for computing keeps m
     - **Web Development**: Projects during my university studies allowed me to hone my skills in technologies like Next.js, Spring Boot, Node.js, and PostgreSQL.
     - **Data Science**: Past projects laid the groundwork for my proficiency in Machine Learning, and I'm gearing up to explore Neural Networks in upcoming endeavors.
 
-## Achievements
-
-- **Class Representative**
-  - **Duration**: Served as a class representative for one year.
-
 ## Notable Projects
 
 Throughout my academic journey, I've had the privilege to work on several impactful projects. Here are a few standouts:
@@ -48,17 +43,6 @@ Throughout my academic journey, I've had the privilege to work on several impact
    - **Description**: As part of a collaborative effort with Stone, a financial technology company, I designed and developed an elastic and scalable distributed application, divided into microservices and leveraging various AWS services.
    - **Link**: [GitHub Repository (Private)](https://github.com/2023M7T1-Inteli)
    - **Article**: I collaborated with my team on the development of a scientific article related to this project. [Read Article (Private Link for now)](https://github.com/2023M7T1-Inteli/Grupo-1/blob/main/docs/artigo.md)
-
-## Social Impact
-
-- **Instituto Fael**
-  - **Description**: Founder and active member of Instituto Fael, a recently created social project dedicated to bringing sports, culture and technology training to disadvantaged regions.
-  - **Website (In development)**: [Instituto Fael](http://www.institutofael.com)
-  - **Social**:
-    - [![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=0E76A8)](https://twitter.com/institutofael)
-    - [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/company/institutofael/?viewAsMember=true)
-    - [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/instituto.fael/)
-
 
 ## Get in Touch
 
